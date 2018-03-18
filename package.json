@@ -1,0 +1,16 @@
+{
+  "name": "instagram_notifi",
+  "version": "1.0.0",
+  "description": "Feed from instagram",
+  "main": "app.js",
+  "scripts": {
+    "start": "babel-node ./app.js"
+  },
+  "author": "WeslyG",
+  "license": "ISC",
+  "dependencies": {
+    "needle": "^2.0.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
